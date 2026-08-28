@@ -14,4 +14,5 @@ if pin==1234:
         if withdraw<=balance:
             balance=balance-withdraw
             print("Amount of ",withdraw ,"withdrawed")
+            print("balance is ",balance)
     
